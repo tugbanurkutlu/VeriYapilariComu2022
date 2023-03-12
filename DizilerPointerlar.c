@@ -94,8 +94,8 @@ int main()
     ikiBoyutludiziYazdir( 3, 2, &A);
 
     /*
-    printf("\n%d",*(dizi+2));   //dizinin 2. elemaný
-    printf("\n%d ",dizi);       //dizinin ilk elemanýnýn adresi
+    printf("\n%d",*(dizi+2));   //dizinin 2. elemanÃ½
+    printf("\n%d ",dizi);       //dizinin ilk elemanÃ½nÃ½n adresi
     printf("\n%d",dizi+10);     //diziden 10 int uzaktaki hafizanin afresi 40 byte
     printf("\n%d",*(dizi+5));  //diziden 5 int uzakliktaki hafizanin tuttugu deger. atama olmadigindan bu deger bilinemez
     dizi[5]=65;
